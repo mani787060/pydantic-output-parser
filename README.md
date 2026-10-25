@@ -249,4 +249,3 @@ This project provides practical exposure to:
 By combining Pydantic models, formatting instructions, Google Gemini, and LangChain's LCEL pipeline, developers can learn how to organize model outputs and validate their structure before using them in downstream workflows.
 
 This project provides a foundation for understanding structured output and developing more maintainable LLM-powered applications.
-
