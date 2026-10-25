@@ -250,9 +250,3 @@ By combining Pydantic models, formatting instructions, Google Gemini, and LangCh
 
 This project provides a foundation for understanding structured output and developing more maintainable LLM-powered applications.
 
-## Author
-
-**Mani Ratan**
-
-- GitHub: [mani787060](https://github.com/mani787060)
-- Repository: [pydantic-output-parser](https://github.com/mani787060/pydantic-output-parser)
